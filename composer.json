@@ -1,4 +1,10 @@
 {
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/n-sviridenko/Geocoder.git"
+    }
+  ],
   "name": "willdurand/geocoder-bundle",
   "description": "Integration of Geocoder into Symfony",
   "keywords": ["geocoding", "geocoder"],
